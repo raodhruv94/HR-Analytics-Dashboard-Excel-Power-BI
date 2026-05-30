@@ -34,6 +34,8 @@ This interactive Power BI dashboard provides comprehensive insights into employe
 ## 🚀 How to View
 - Download the `.pbix` file above and open in Power BI Desktop.
 - **Interactive version**: Publish to Power BI Service for sharing (or use Publish to Web if enabled).
+  <img width="1316" height="170" alt="4" src="https://github.com/user-attachments/assets/acc6c8de-2824-4605-bb69-82f67dcf0996" />
+
 
 ## 📌 Skills Demonstrated
 - Advanced DAX (measures, calculated columns)
